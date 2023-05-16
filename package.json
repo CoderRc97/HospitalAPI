@@ -1,0 +1,20 @@
+{
+  "name": "hospitalapidebjitchowdhury",
+  "version": "1.0.0",
+  "description": "Hospital Api to register doctor and patients and create reports for patients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Debjit Chowdhury",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.1.1",
+    "nodemon": "^2.0.22",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1"
+  }
+}
